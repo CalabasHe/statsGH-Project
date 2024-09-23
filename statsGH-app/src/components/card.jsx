@@ -1,7 +1,13 @@
-import { Link } from "react-router-dom";
+import CardLG from "./firstCardLG";
+import CardSM from "./firstCardSM";
 
-const card = () => {
-  return <p>kkkkkkkkkkkk</p>;
+const Cardd = () => {
+  return (
+    <div>
+      <CardLG />
+      <CardSM />
+    </div>
+  );
 };
 
-export default card;
+export default Cardd;
