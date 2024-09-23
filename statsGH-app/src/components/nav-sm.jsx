@@ -71,7 +71,7 @@ const NavSM = () => {
           isOpen ? "translate-x-0" : "translate-x-full"
         } fixed top-0 right-0 lg:w-3/12 w-3/6 h-full bg-black text-white transition-transform duration-300 ease-in-out z-50`}
       >
-        <div className="flex mt-[70px] mr-3 flex-col items-start p-5 space-y-4">
+        <div className="flex lg:mt-[120px] mt-[70px] mr-3 flex-col items-start p-5 space-y-4">
           <button onClick={toggleMenu} className="self-end">
             Close
           </button>
