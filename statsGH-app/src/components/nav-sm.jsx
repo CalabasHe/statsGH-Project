@@ -13,7 +13,7 @@ const NavSM = () => {
 
   return (
     <div className="">
-      <div className="flex absolute right-9 lg:top-[65px] top-10">
+      <div className="flex lg:right-[66px] absolute right-9 lg:top-[65px] top-10">
         <div className="flex flex-col items-end space-y-4">
           <div className="flex items-center space-x-2">
             <input
@@ -21,8 +21,8 @@ const NavSM = () => {
               placeholder="Search"
               type="text"
             />
-            <button className="hidden lg:block  main-container  w-[144px] h-[35px] pt-[11px] pr-[48px] pb-[11px] pl-[48px] gap-[8px] justify-center items-center flex-nowrap bg-[#ffdd00] rounded-[60px] relative mx-auto my-0">
-              <div className="font-goudos w-[47px] h-[22px] shrink-0  text-[18px] font-goudos leading-[21.604px] text-[#000] border-none relative whitespace-nowrap pointer">
+            <button className="hidden lg:block lg:flex main-container  w-[144px] h-[35px] pt-[11px] pr-[48px] pb-[11px] pl-[48px] gap-[8px] justify-center items-center flex-nowrap bg-[#ffdd00] rounded-[60px] relative mx-auto my-0">
+              <div className=" w-[47px] h-[22px] shrink-0  text-[18px] font-goudos leading-[21.604px] text-[#000] border-none relative whitespace-nowrap pointer">
                 Search
               </div>
             </button>
@@ -71,7 +71,7 @@ const NavSM = () => {
           isOpen ? "translate-x-0" : "translate-x-full"
         } fixed top-0 right-0 lg:w-3/12 w-3/6 h-full bg-black text-white transition-transform duration-300 ease-in-out z-50`}
       >
-        <div className="flex mt-[70px] mr-3 flex-col items-start p-5 space-y-4">
+        <div className="flex lg:mt-[120px] mt-[70px] mr-3 flex-col items-start p-5 space-y-4">
           <button onClick={toggleMenu} className="self-end">
             Close
           </button>
