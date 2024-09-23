@@ -25,7 +25,7 @@ const CardLG = () => {
 
         <div className="bg-[#FAF9F0] p-5 rounded-xl w-full">
           <div>
-            <p className="text-2xl md:text-3xl font-black pb-3">8.3%</p>
+            <p className="text-2xl md:text-3xl font-black pb-3">9.3%</p>
           </div>
           <div>
             <Link

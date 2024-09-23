@@ -66,7 +66,7 @@ const CardSM = () => {
           <div className="flex w-[160px] h-[200px] pt-[12px] pr-[16px] pb-[12px] pl-[16px] gap-[8px] items-center flex-nowrap bg-[#faf9f0] rounded-[15px] absolute top-0 left-[192px] z-[5]">
             <div className="flex w-[123px] h-[144px] flex-col gap-[6px] items-start shrink-0 flex-nowrap relative z-[6]">
               <span className="h-[36px] self-stretch shrink-0 basis-auto font-['Poppins'] text-[24px] font-bold leading-[36px] text-[#000] relative text-left whitespace-nowrap z-[7]">
-                10 553 341
+                10 553 300
               </span>
               <span className="flex w-[123px] h-[80px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left overflow-hidden z-[8]">
                 Population
