@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 import NavSM from "./nav-sm.jsx";
 import NavMD from "./nav-md.jsx";
-import Line from "./horizontal-line.jsx";
+
 import logo from "../assets/images/StatsGH-logo.png";
 const header = () => {
   return (
@@ -15,7 +15,7 @@ const header = () => {
             src={logo}
             alt="Logo"
           />
-          <span className="ml-3 h-[17px] shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[6]">
+          <span className=" h-[17px] pl-3 shrink-0 font-goudos text-[18px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[6]">
             StatsGH
           </span>
         </div>
@@ -23,7 +23,6 @@ const header = () => {
 
       <nav>
         <NavSM />
-        <Line />
       </nav>
     </header>
   );
