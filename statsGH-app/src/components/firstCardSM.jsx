@@ -53,12 +53,12 @@ const CardSM = () => {
                 8.3 %
               </span>
               <Link to="/">
-                <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[3]">
+                <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-goudos text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[3]">
                   Unemployment rate (smoothed and seasonally adjusted)
                 </span>
               </Link>
 
-              <span className="h-[17px] self-stretch shrink-0 basis-auto font-['Goudy_Old_Style'] text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[4]">
+              <span className="h-[17px] self-stretch shrink-0 basis-auto font-goudos text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[4]">
                 July 2024
               </span>
             </div>
@@ -68,13 +68,13 @@ const CardSM = () => {
               <span className="h-[36px] self-stretch shrink-0 basis-auto font-['Poppins'] text-[24px] font-bold leading-[36px] text-[#000] relative text-left whitespace-nowrap z-[7]">
                 10 553 341
               </span>
-              <span className="flex w-[123px] h-[80px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left overflow-hidden z-[8]">
+              <span className="flex w-[123px] h-[80px] justify-start items-start self-stretch shrink-0 font-goudos text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left overflow-hidden z-[8]">
                 Population
                 <br />
                 <br />
                 <br />
               </span>
-              <span className="h-[17px] self-stretch shrink-0 basis-auto font-['Goudy_Old_Style'] text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[9]">
+              <span className="h-[17px] self-stretch shrink-0 basis-auto font-goudos text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[9]">
                 July 2024
               </span>
             </div>
@@ -84,12 +84,12 @@ const CardSM = () => {
               <span className="h-[36px] self-stretch shrink-0 basis-auto font-['Poppins'] text-[24px] font-bold leading-[36px] text-[#000] relative text-left whitespace-nowrap z-[12]">
                 2.6 %
               </span>
-              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[13]">
+              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-goudos text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[13]">
                 Inflation rate according to CPI
                 <br />
                 <br />
               </span>
-              <span className="h-[17px] self-stretch shrink-0 basis-auto font-['Goudy_Old_Style'] text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[14]">
+              <span className="h-[17px] self-stretch shrink-0 basis-auto font-goudos text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[14]">
                 July 2024
               </span>
             </div>
@@ -99,11 +99,11 @@ const CardSM = () => {
               <span className="h-[36px] self-stretch shrink-0 basis-auto font-['Poppins'] text-[24px] font-bold leading-[36px] text-[#000] relative text-left whitespace-nowrap z-[17]">
                 1.7 %
               </span>
-              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[18]">
+              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-goudos text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[18]">
                 Inflation rate according to CPIF
                 <br />
               </span>
-              <span className="h-[17px] self-stretch shrink-0 basis-auto font-['Goudy_Old_Style'] text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[19]">
+              <span className="h-[17px] self-stretch shrink-0 basis-auto font-goudos text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[19]">
                 July 2024
               </span>
             </div>
@@ -113,10 +113,10 @@ const CardSM = () => {
               <span className="h-[36px] self-stretch shrink-0 basis-auto font-['Poppins'] text-[24px] font-bold leading-[36px] text-[#000] relative text-left whitespace-nowrap z-[22]">
                 -0.3 %
               </span>
-              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[23]">
+              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-goudos text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[23]">
                 GDP, change in volume (seasonally adjusted)
               </span>
-              <span className="h-[17px] self-stretch shrink-0 basis-auto font-['Goudy_Old_Style'] text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[24]">
+              <span className="h-[17px] self-stretch shrink-0 basis-auto font-goudos text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[24]">
                 July 2024
               </span>
             </div>
@@ -126,11 +126,11 @@ const CardSM = () => {
               <span className="h-[36px] self-stretch shrink-0 basis-auto font-['Poppins'] text-[24px] font-bold leading-[36px] text-[#000] relative text-left whitespace-nowrap z-[27]">
                 0.7 %
               </span>
-              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-['Goudy_Old_Style'] text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[28]">
+              <span className="flex w-[123px] h-[88px] justify-start items-start self-stretch shrink-0 font-goudos text-[18px] font-normal leading-[21.604px] text-[#000] relative text-left z-[28]">
                 Growth rate, lending to households
                 <br />
               </span>
-              <span className="h-[17px] self-stretch shrink-0 basis-auto font-['Goudy_Old_Style'] text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[29]">
+              <span className="h-[17px] self-stretch shrink-0 basis-auto font-goudos text-[14px] font-normal leading-[16.803px] text-[#000] relative text-left whitespace-nowrap z-[29]">
                 July 2024
               </span>
             </div>
