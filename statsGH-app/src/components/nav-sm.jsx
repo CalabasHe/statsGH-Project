@@ -21,7 +21,7 @@ const NavSM = () => {
               placeholder="Search"
               type="text"
             />
-            <button className="hidden lg:block lg:flex main-container  w-[144px] h-[35px] pt-[11px] pr-[48px] pb-[11px] pl-[48px] gap-[8px] justify-center items-center flex-nowrap bg-[#ffdd00] rounded-[60px] relative mx-auto my-0">
+            <button className="hidden lg:flex main-container  w-[144px] h-[35px] pt-[11px] pr-[48px] pb-[11px] pl-[48px] gap-[8px] justify-center items-center flex-nowrap bg-[#ffdd00] rounded-[60px] relative mx-auto my-0">
               <div className=" w-[47px] h-[22px] shrink-0  text-[18px] font-goudos leading-[21.604px] text-[#000] border-none relative whitespace-nowrap pointer">
                 Search
               </div>
